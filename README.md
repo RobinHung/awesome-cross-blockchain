@@ -16,11 +16,15 @@ A curated list of awesome cross-blockchain protocol resources and links.
 * [Atomic Cross-Chain Swaps](https://arxiv.org/abs/1801.09515), Maurice Herlihy, arxiv 2018.
 * [An Analysis of Atomic Swaps on and between Ethereum Blockchains using Smart Contracts](http://uvalight.net/~delaat/rp/2017-2018/p42/report.pdf), Peter Bennink, Lennart van Gijtenbeek, 2018.
 
-### Previous Work
+### Implementation
 
 * [AltCoinExchange](https://github.com/AltCoinExchange/ethatomicswap) - Ethereum atomic swap.
 * [Decred](https://github.com/decred/atomicswap) - On-chain atomic swaps for Decred and other cryptocurrencies.
 * [DAO.Casino](https://github.com/DaoCasino/BTC2ERC20_atomicswap) - Crossblockchain exchange BTC to ERC20 token without third party.
+
+### Articles
+
+* [Bitcoin Wiki - Atomic Cross-Chain Trading](https://en.bitcoin.it/wiki/Atomic_cross-chain_trading)
 
 ## Cosmos
 
