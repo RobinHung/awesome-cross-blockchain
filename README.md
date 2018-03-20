@@ -49,7 +49,7 @@ A curated list of awesome cross-blockchain protocol resources and links.
 
 * [Polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation in [Rust](https://www.rust-lang.org/en-US/).
 * [Parity-Bridge](https://github.com/paritytech/parity-bridge) - Bridge between any two ethereum-based networks.
-* [Github Organization](https://github.com/polkadot-io/)
+* [Web3 Foundation Github Organization](https://github.com/w3f)
 
 ### Talks
 
@@ -66,6 +66,8 @@ A curated list of awesome cross-blockchain protocol resources and links.
     * [Part One: “Across Chains and Across Protocols”](https://blog.stephantual.com/web-3-0-revisited-part-one-across-chains-and-across-protocols-4282b01054c5)
     * [Part Two: “Introduction to Polkadot: what it is, what it ain’t”](https://blog.stephantual.com/web-three-revisited-part-two-introduction-to-polkadot-what-it-is-what-it-aint-657782051d34)
     * [Part Three: “Polkadot: How it could integrate with 4 blockchain networks — and what’s in it for us as developers”](https://blog.stephantual.com/title-12deb5d6eeed)
+* [Polkadot-Overview](https://github.com/w3f/polkadot-overview)
+* [Polkadot-Spec](https://github.com/w3f/polkadot-spec/blob/master/spec.md) - A more technical description of Polkadot protocol
 
 ## Miscellaneous
 
