@@ -4,12 +4,12 @@ A curated list of awesome cross-blockchain protocol resources and links.
 
 ## Table of Contents
 
-- [Atomic-Swap](#atomic-swap)
+- [Atomic-Swaps](#atomic-swaps)
 - [Cosmos](#cosmos)
 - [Polkadot](#polkadot)
 - [Miscellaneous](#miscellaneous)
 
-## Atomic-Swap
+## Atomic-Swaps
 
 ### Academic Research
 
@@ -20,11 +20,21 @@ A curated list of awesome cross-blockchain protocol resources and links.
 
 * [AltCoinExchange](https://github.com/AltCoinExchange/ethatomicswap) - Ethereum atomic swap.
 * [Decred](https://github.com/decred/atomicswap) - On-chain atomic swaps for Decred and other cryptocurrencies.
+* [Lightning Labs](https://blog.lightning.engineering/announcement/2017/11/16/ln-swap.html) - Instant Cross-Chain Transactions on Lightning
+
+### Guides
+
 * [DAO.Casino](https://github.com/DaoCasino/BTC2ERC20_atomicswap) - Crossblockchain exchange BTC to ERC20 token without third party.
+* Exchange Union
+    * [Lightning-Swap-PoC](https://github.com/ExchangeUnion/Lightning-Swap-PoC) - The Lightning BTC/LTC Swap Guide
+    * [Raiden-ERC20-Swap-PoC](https://github.com/ExchangeUnion/Raiden-ERC20-Swap-PoC) - The Raiden ERC20/ERC20 Swap Guide
 
 ### Articles
 
 * [Bitcoin Wiki - Atomic Cross-Chain Trading](https://en.bitcoin.it/wiki/Atomic_cross-chain_trading)
+* [Atomic Swaps](https://bitcointechtalk.com/atomic-swaps-d6ca26b680fe) by Jimmy Song
+* [On-Chain Atomic Swaps](https://medium.com/decred/on-chain-atomic-swaps-bdb29fa2c92c) by Decred team
+* [The Evolution of Atomic Swaps](https://blog.altcoin.io/the-evolution-of-atomic-swaps-e33ad3af8818) by Altcoin.io Exchange team
 
 ## Cosmos
 
