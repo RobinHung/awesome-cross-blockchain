@@ -59,13 +59,14 @@ A curated list of awesome cross-blockchain protocol resources and links.
 
 * [Polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation in [Rust](https://www.rust-lang.org/en-US/).
 * [Parity-Bridge](https://github.com/paritytech/parity-bridge) - Bridge between any two ethereum-based networks.
+* [Polkadot JS](https://github.com/polkadot-js)
 * [Web3 Foundation Github Organization](https://github.com/w3f)
 
 ### Talks
 
 * [Official YouTube channel](https://www.youtube.com/channel/UCB7PbjuZLEba_znc7mEGNgw)
-* [Polkadot](https://www.youtube.com/watch?v=lIghiCmHz0U) by Gavin Wood @ Ethereu London
-* Polkadot Keynote @ Taipei Ethereum Meetuo
+* [Polkadot](https://www.youtube.com/watch?v=lIghiCmHz0U) by Gavin Wood @ Ethereum London
+* Polkadot Keynote @ Taipei Ethereum Meetup
     * [Polkadot general overview](https://www.youtube.com/watch?v=UKNt3nVTIN8&t=2m30s) by Robert Habermeier 
     * [Bridges between blockchains and PoC implementation of bridge works](https://www.youtube.com/watch?v=UKNt3nVTIN8&t=42m) by Marek Kotewicz 
 
